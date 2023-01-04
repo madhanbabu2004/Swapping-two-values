@@ -18,8 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+a = (input())
+b = (input())
+v1 = a
+a= b
+b=v1
+print('Swapped values are:',a,b)
+```
 
-
+## OUTPUT:
+![model](/Screenshot.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
